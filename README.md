@@ -126,7 +126,7 @@ After not getting anything, I changed my approach to using strings on the images
 ![image](https://user-images.githubusercontent.com/65858555/136688058-3de1a708-9d6c-4596-9dfd-7ccf4d26bd55.png)
 </br>
 </br>
-I took a hint and reliased it was using not the usual binary but rather binary represented with braille, then I remembered that using dcode Braille translator was able to quickly convert the binary into text.
+I took a hint and reliased it was encoded not the usual binary but rather binary represented with braille, then I remembered that using dcode Braille translator was able to quickly convert the binary into text.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136688197-6ff73b86-c2f0-4532-a86d-70b7a33d76f0.png)
