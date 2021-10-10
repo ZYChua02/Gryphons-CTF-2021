@@ -136,6 +136,14 @@ The CTF was a much easier one compared to some of the previous ones that I took 
 </br>
 </br>
 I learnt about the Polybius cipher as part of the challenge, which was something I had not encountered in previous CTFs that I participated (Did not write up this particular challenge).
+</br>
+</br>
+Challenges that I Solved:
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/65858555/136689030-075bd4f6-a5b0-46a1-8d41-6d173d6d0b14.png)
+
+
 
 
 
