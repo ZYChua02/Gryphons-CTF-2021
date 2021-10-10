@@ -21,7 +21,7 @@ http://c1.2021.gryphonctf.com:9002/
 </br>
 Hint : What is MSB and LSB?
 ## Approach
-Upon seeing the binary numbers in the description, the first thing we did on was to convert it using cyberchef.
+Upon seeing the binary numbers in the description, the first thing we did was to convert it using cyberchef.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136686261-b49c291a-0f1b-42b4-90a2-6322b77b6f56.png)
