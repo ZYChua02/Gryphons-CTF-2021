@@ -1,5 +1,5 @@
 # Gryphons-CTF-2021
-Writeups on some challenges for SP DISM Gryphons CTF 2021
+Writeups on some challenges in SP DISM Gryphons CTF 2021
 # Table of Contents
 * [Misc](https://github.com/ZYChua02/Gryphons-CTF-2021#misc)
   * [Head and toes](https://github.com/ZYChua02/Gryphons-CTF-2021#head-and-toes)
