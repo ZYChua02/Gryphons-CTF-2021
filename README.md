@@ -40,10 +40,12 @@ Amongst the flooded page, all will be revealed when you find it inside.
 </br>
 http://c1.2021.gryphonctf.com:9011/
 ## Approach
-Upon clciking into the link that was provided, there was a bunch of words scattered all over the page.
+Upon clicking into the link that was provided, there was a bunch of words scattered all over the page.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136686554-785eddfd-b50b-4906-8b0f-5114e4a69645.png)
+</br>
+</br>
 However upon closer insepction, there was actually a link hidden among the words.
 </br>
 </br>
@@ -117,7 +119,7 @@ I initially did a reverse image search on the images to find out on the origin o
 Article link: https://medium.com/@yurachoi/i-got-1100011-problems-but-a-bit-aint-one-72e9de535d2e
 </br>
 </br>
-After not getting anything, I changed my approach to using strings on the images instead and found the flag enocded in binary in hint2.png
+After not getting anything, I changed my approach to using strings on the images instead and found the flag encoded in binary in hint2.png
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136688058-3de1a708-9d6c-4596-9dfd-7ccf4d26bd55.png)
