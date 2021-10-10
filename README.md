@@ -21,7 +21,7 @@ http://c1.2021.gryphonctf.com:9002/
 </br>
 Hint : What is MSB and LSB?
 ## Approach
-Upon seeing the binary numbers in the description, the first thing we did on was to convert it using cyberchef
+Upon seeing the binary numbers in the description, the first thing we did on was to convert it using cyberchef.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136686261-b49c291a-0f1b-42b4-90a2-6322b77b6f56.png)
@@ -101,7 +101,7 @@ Upon clicking the link in the Description, an article on Louis Braille is shown.
 ![image](https://user-images.githubusercontent.com/65858555/136687657-5b4fc726-3237-49bb-bb65-e5a05c908533.png)
 </br>
 </br>
-I decided to use inspect element to look if anything was hidden was in the comments of the HTML page, and a Google Drive link was hidden with a hint indicating that we should look for things hidden behind the image(s).
+I decided to use inspect element to look if anything was hidden in the comments of the HTML page, and a Google Drive link was hidden with a hint indicating that we should look for things hidden behind the image(s).
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136687769-5ab6d7af-aa22-49b3-998c-e845f389a208.png)
