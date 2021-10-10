@@ -108,7 +108,7 @@ I decided to use inspect element to look if anything was hidden in the comments 
 ![image](https://user-images.githubusercontent.com/65858555/136687769-5ab6d7af-aa22-49b3-998c-e845f389a208.png)
 </br>
 </br>
-Clicking in the Google Drive link will reveal three images.
+Copying  the Google Drive link will show three images.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/136687860-0ed985d4-8d38-408f-8242-b3b3c336a007.png)
