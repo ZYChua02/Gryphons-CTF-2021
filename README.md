@@ -93,7 +93,7 @@ Have a look through the web and have fun discovering it!
 http://c1.2021.gryphonctf.com:9008/
 </br>
 </br>
-Hint 1: Louis's favourite number was S1X and he was the inventor of a reading and writing system for use by people who are visually impaired.
+Hint: Louis's favourite number was S1X and he was the inventor of a reading and writing system for use by people who are visually impaired.
 ## Approach
 Upon clicking the link in the Description, an article on Louis Braille is shown.
 </br>
